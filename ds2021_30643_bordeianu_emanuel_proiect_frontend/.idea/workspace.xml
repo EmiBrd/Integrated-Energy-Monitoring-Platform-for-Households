@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b379322-44d6-4ab0-9a44-ea602817a891" name="Changes" comment="backend_urls_updated2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="21HcIJECOZ40UpSIGlO3ncGcrwS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b379322-44d6-4ab0-9a44-ea602817a891" name="Changes" comment="" />
+      <created>1637601372831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637601372831</updated>
+      <workItem from="1637601375169" duration="107000" />
+      <workItem from="1637601809174" duration="11650000" />
+      <workItem from="1637617029927" duration="95000" />
+      <workItem from="1637617216597" duration="1597000" />
+      <workItem from="1637674007108" duration="344000" />
+      <workItem from="1641159741777" duration="1022000" />
+      <workItem from="1641162786832" duration="932000" />
+      <workItem from="1641165273996" duration="299000" />
+      <workItem from="1641166767667" duration="1308000" />
+      <workItem from="1641224976239" duration="604000" />
+      <workItem from="1641283236691" duration="1063000" />
+      <workItem from="1641596179021" duration="1133000" />
+      <workItem from="1641842384971" duration="2326000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1637602222580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637602222580</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit1">
+      <created>1637609988010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637609988010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first_commit">
+      <created>1641165443315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641165443315</updated>
+    </task>
+    <task id="LOCAL-00004" summary="urls_updated">
+      <created>1641167482787</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641167482787</updated>
+    </task>
+    <task id="LOCAL-00005" summary="backend_urls_updated">
+      <created>1641596350234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641596350234</updated>
+    </task>
+    <task id="LOCAL-00006" summary="backend_urls_updated2">
+      <created>1641844524215</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641844524215</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit1" />
+    <MESSAGE value="first_commit" />
+    <MESSAGE value="urls_updated" />
+    <MESSAGE value="backend_urls_updated" />
+    <MESSAGE value="backend_urls_updated2" />
+    <option name="LAST_COMMIT_MESSAGE" value="backend_urls_updated2" />
+  </component>
+</project>
